@@ -6,5 +6,5 @@ Ce repo contient les différents codes réalisés dans le cadre du projet ainsi 
 
 ##### Credits :
 - Mr TALEB Mohammed - Encadrant ENSAM-MEKNES
-- Abdelmoughit KINANI - étudiant [@w1nsid]: https://github.com/w1nsid/
-- Anas TAHER - étudiant [@AnasTaherGit]: https://github.com/AnasTaherGit/
+- Abdelmoughit KINANI - étudiant [@w1nsid](https://github.com/w1nsid/)
+- Anas TAHER - étudiant [@AnasTaherGit](https://github.com/AnasTaherGit/)
